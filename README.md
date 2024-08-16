@@ -9,4 +9,5 @@
 - 😄 Pronouns: He/Him
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunkumarsanku&theme=light&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunkumarsanku&theme=dark&hide_border=true)
+
