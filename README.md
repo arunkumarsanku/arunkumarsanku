@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m currently learning Angular Js
+- 🌱 I’m currently learning ETH
 - 👯 I’m looking to collaborate on Full Stack Projects
-- 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript, Node Js, Express Js, Postgresql, Mongodb
+- 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript,Angular Js, Node Js, Express Js, Postgresql, Mongodb
 - 📫 How to reach me: arunkumarsanku0408@gmail.com
 - 😄 Pronouns: He/Him
 
