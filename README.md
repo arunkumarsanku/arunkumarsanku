@@ -4,7 +4,7 @@
   
 - 👯 I’m looking to collaborate on Full Stack Projects
   
-- 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript,Angular Js, Node Js, Express Js, Postgresql, Mongodb, Devops tools
+- 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript,Angular Js, Node Js, Express Js, Postgresql, Mongodb, and Devops tools
   
 - 📫 Reach me through: arunkumarsanku0408@gmail.com ,https://www.linkedin.com/in/arun-kumar-sanku-b6376a1a5/
 
