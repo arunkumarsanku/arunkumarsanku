@@ -2,10 +2,8 @@
 
 - 🌱 I’m currently Practicing Full stack projects
   
-- 👯 I’m looking to collaborate on Full Stack Projects
-  
-- 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript,Angular Js, Node Js, Express Js, Postgresql, Mongodb, and Devops tools
-  
+- 👯 I’m looking for full time job and collaborate on Full Stack Projects
+
 - 📫 Reach me through: arunkumarsanku0408@gmail.com ,[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-sanku-b6376a1a5/) 
 
 # 🚀 My Tech Stack
