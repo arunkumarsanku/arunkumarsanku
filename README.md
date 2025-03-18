@@ -6,7 +6,8 @@
   
 - 💬 Ask me about HTML,CSS, JavaScript, React Js, TypeScript,Angular Js, Node Js, Express Js, Postgresql, Mongodb, and Devops tools
   
-- 📫 Reach me through: arunkumarsanku0408@gmail.com ,https://www.linkedin.com/in/arun-kumar-sanku-b6376a1a5/
+- 📫 Reach me through: arunkumarsanku0408@gmail.com ,[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-sanku-b6376a1a5/) 
+
 # 🚀 My Tech Stack
 
 ## 🌐 Web Development  
@@ -31,4 +32,6 @@
 
 ## 📋 Project Management & Collaboration  
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarsanku&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
